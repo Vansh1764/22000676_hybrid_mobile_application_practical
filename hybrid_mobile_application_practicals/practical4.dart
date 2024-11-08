@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Column(
             children: [
-              Image.asset('assets/nuvLogo.png'),
+              Image.asset('assets/NUVlogo.png'),
               Text('Welcome to NUV',
                 style: TextStyle(fontSize: 50.0),
               )
